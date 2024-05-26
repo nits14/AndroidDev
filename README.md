@@ -1,7 +1,7 @@
-# AndroidDev Repository
-Simple Repo for Learning purpose 
+# AndroidDev Repository  
+Simple Repo for Learning purpose   
 
-#Branches to Learn topic
-#Main (No code available)
-#JetpackCompose
+#Branches to Learn topic  
+#Main (No code available)  
+#JetpackCompose  
 #
